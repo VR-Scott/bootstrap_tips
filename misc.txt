@@ -1,0 +1,2 @@
+Q:What is rem?
+A:relative to <html>'s font size in css.(generally 16? in bootstrap)
